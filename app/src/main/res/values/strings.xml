@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bonusCalcApp</string>
+    <string name="years_worked">Years worked</string>
+    <string name="calculate">Calculate</string>
+    <string name="please_enter_salary">Please enter Salary</string>
+    <string name="email_address">Email address</string>
+    <string name="please_enter_number">Please enter number</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="bonus_calculation">Bonus Calculation</string>
+</resources>
